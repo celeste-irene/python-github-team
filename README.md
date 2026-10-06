@@ -1,3 +1,3 @@
 ## Practicing Simple Github Workflow
 
-creating a small Python project while practicing basic Github
+Celeste's contribution: creating a small Python project while practicing basic Github
